@@ -24,10 +24,13 @@ set(msg_files
   "msg/Graph.msg"
   "msg/GraphEdge.msg"
   "msg/GraphNode.msg"
+  "msg/GraphZone.msg"
   "msg/Level.msg"
   "msg/Lift.msg"
   "msg/Param.msg"
   "msg/Place.msg"
+  "msg/ZoneTransitionLane.msg"
+  "msg/ZoneVertex.msg"
 )
 
 set(srv_files
