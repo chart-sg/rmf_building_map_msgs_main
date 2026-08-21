@@ -29,7 +29,6 @@ set(msg_files
   "msg/Lift.msg"
   "msg/Param.msg"
   "msg/Place.msg"
-  "msg/ZoneTransitionLane.msg"
   "msg/ZoneVertex.msg"
 )
 

@@ -2,8 +2,6 @@ string name
 string level
 string type
 
-ZoneTransitionLane[] transition_lanes
-
 float32 center_x
 float32 center_y
 float32 yaw
